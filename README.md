@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ManavSarkar
 - 👀 I’m interested in Mobile App And Web App development
 - 🌱 I’m currently learning flutter
-- 💞️ I’m looking to collaborate on Libreoffice
+- 💞️ I’m looking to collaborate on Open-Source Software
 - 📫 How to reach me manavsarkar07@gmail.com
 
 <!---
